@@ -1,5 +1,5 @@
 ### Olá, eu sou o Júnior Mira 👋
-- 🌱 Atualmente estudando javaScript...
+- 🌱 
 - ⚡ 
 --> junior.mira_
 
