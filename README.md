@@ -1,4 +1,4 @@
-### Olá, eu sou o Júnior Mira 👋
+### Hello world, I'm Júnior Mira 👋
 - 🌱 
 - ⚡ 
 --> junior.mira_
