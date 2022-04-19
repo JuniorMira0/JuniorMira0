@@ -1,6 +1,6 @@
 ## Olá, eu sou o Junior 👋
 
- <img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JuniorMira0&theme=radical"  />
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=juniormira0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
 💚 Atualmente sou estudante de Desenvolvimento Web na [Trybe](https://github.com/betrybe)! 
 
