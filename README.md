@@ -14,6 +14,7 @@
 </p>
 
 
+<hr/>
 
 ### Technologies
 <div>
