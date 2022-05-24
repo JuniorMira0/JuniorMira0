@@ -5,6 +5,10 @@
 💚 Front End Developer - HTML - CSS - JavaScript - React
 
 📆 Meu dia-a-dia é repleto de JavaScript e React.
+      Contato: 
+      email: j-unyor14@hotmail.com
+      Linkedin: https://www.linkedin.com/in/junior-mira/
+      
 
 
 <p >
