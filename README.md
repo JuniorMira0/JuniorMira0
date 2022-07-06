@@ -2,7 +2,7 @@
 
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=juniormira0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
-💚 Front End Developer - HTML - CSS - JavaScript - React
+💚 FullStack Developer - HTML - CSS - JavaScript - React
 
 📆 Meu dia-a-dia é repleto de JavaScript e React.
  <br>  
