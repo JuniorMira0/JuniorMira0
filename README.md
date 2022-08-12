@@ -1,6 +1,6 @@
 ## Olá, eu sou o Junior 👋
 
-💚 FullStack Developer - HTML - CSS - JavaScript - React
+💚 Front End Developer - HTML - CSS - JavaScript - React
 
 📆 Meu dia-a-dia é repleto de JavaScript e React.
  <br>  
