@@ -1,7 +1,5 @@
 ## Olá, eu sou o Junior 👋
 
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=juniormira0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-
 💚 FullStack Developer - HTML - CSS - JavaScript - React
 
 📆 Meu dia-a-dia é repleto de JavaScript e React.
@@ -12,14 +10,12 @@
        <br>  
       Linkedin: https://www.linkedin.com/in/junior-mira/
       
-
-
-<p >
-  <br>  
-  <a href="[https://www.linkedin.com/in/junior-mira]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
+<div align="center">
+  <br>
+  <a href="https://github.com/JuniorMira0">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JuniorMira0&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorMira0&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
 
 <hr/>
 
