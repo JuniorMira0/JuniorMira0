@@ -1,10 +1,14 @@
-## Olá, eu sou o Junior 👋 Desenvolvedor Front End React
+## Hello, welcome to my git hub profile 👋
+
+### You can call me by Junior and i'm glad you got here
+
+## About me
+
+I live in Curitiba-PR. I'm a full stack developer in love with React!
+In this repository you will find all the projects that I had the opportunity to develop, if something interests you, do not hesitate to contact me.
  <br>  
-      Contato: 
        <br>  
-      email: j-unyor14@hotmail.com
-       <br>  
-      Linkedin: https://www.linkedin.com/in/junior-mira/
+      email: junior_mira@outlook.com       ||      Linkedin: https://www.linkedin.com/in/junior-mira/
       
 <div align="center">
   <br>
