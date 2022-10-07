@@ -5,11 +5,9 @@
 ## About me
 
 I live in Curitiba-PR. I'm a full stack developer in love with React!
+<br/>
 In this repository you will find all the projects that I had the opportunity to develop, if something interests you, do not hesitate to contact me.
- <br>  
-       <br>  
-      email: junior_mira@outlook.com       ||      Linkedin: https://www.linkedin.com/in/junior-mira/
-      
+
 <div align="center">
   <br>
   <a href="https://github.com/JuniorMira0">
