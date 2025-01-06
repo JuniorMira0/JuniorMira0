@@ -41,6 +41,7 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 <a href="https://www.linkedin.com/in/junior-mira/"><img src="https://user-images.githubusercontent.com/58532023/171219303-8839f911-21bf-453f-b517-9dd6ef9a873c.png" alt="LinkedIn"/></a>
 <a href=""><img src="https://user-images.githubusercontent.com/58532023/171218519-2ccc030a-72b5-45ea-a2ec-7f1dfbef917f.png" alt="Twitter"/></a>
 </p>
+email:junior_mira@outlook.com
 
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
